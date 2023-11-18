@@ -1,0 +1,10 @@
+ID|NOMBRE
+1|Apple Watch
+2|Raspberry Pi
+3|iPhone
+4|Google Home
+5|iPad
+6|Kindle
+7|PlayStation
+8|Scooter
+10|Surface
