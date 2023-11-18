@@ -140,3 +140,7 @@ dfJoinInner = empDF.join(deptDF,empDF.emp_dept_id ==  deptDF.dept_id,"inner")
 
 display(dfJoinInner)
     
+
+# COMMAND ----------
+
+display(dfJoinInner)
