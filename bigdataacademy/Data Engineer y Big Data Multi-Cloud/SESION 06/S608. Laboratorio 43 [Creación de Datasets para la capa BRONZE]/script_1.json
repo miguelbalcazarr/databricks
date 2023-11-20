@@ -1,0 +1,34 @@
+"schema": [
+	{
+		"name": "ID",
+		"type": "String"
+	},
+	{
+		"name": "NOMBRE",
+		"type": "String"
+	},
+	{
+		"name": "TELEFONO",
+		"type": "String"
+	},
+	{
+		"name": "CORREO",
+		"type": "String"
+	},
+	{
+		"name": "FECHA_INGRESO",
+		"type": "String"
+	},
+	{
+		"name": "EDAD",
+		"type": "String"
+	},
+	{
+		"name": "SALARIO",
+		"type": "String"
+	},
+	{
+		"name": "ID_EMPRESA",
+		"type": "String"
+	}
+]
